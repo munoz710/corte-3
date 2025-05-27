@@ -1,0 +1,65 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+1
+y
+1
+0
+5
+mucha
+1
+0
+4
+vaca
+1
+0
+9
+1
+14
+vaca<=16000000
+4
+1
+19
+'cuanto va a donar'
+5
+1
+1
+p
+7
+0
+1
+9
+p<2000000
+4
+1
+57
+'hermano, su donacion a yanina debe ser menos de  200mil'
+13
+6
+1
+5
+mucha
+7
+mucha+1
+6
+1
+4
+vaca
+6
+vaca+p
+13
+11
+4
+1
+41
+'Aportaron ', mucha, ' almas caritativas'
+4
+1
+46
+'Yanina reunio un total de: ', vaca , ' pesos'
+1

@@ -1,0 +1,69 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+4
+edad
+2
+-1
+5
+mayor
+1
+0
+5
+menor
+1
+0
+6
+1
+1
+r
+1
+0
+9
+1
+6
+r < 10
+4
+1
+44
+'digite la edad de cada una de las personas'
+5
+1
+4
+edad
+6
+1
+1
+r
+5
+r + 1
+7
+0
+1
+9
+edad < 18
+6
+1
+5
+mayor
+9
+mayor + 1
+13
+6
+1
+5
+menor
+9
+menor + 1
+13
+11
+4
+1
+102
+'el numero de personas mayores de edad es', mayor,' y el numero de personas menores de edad es', menor
+1

@@ -1,0 +1,66 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+5
+total
+1
+0
+4
+cont
+1
+0
+4
+1
+34
+'Quiere capturar una calificacion'
+5
+1
+4
+resp
+9
+1
+8
+resp='s'
+4
+1
+25
+'inserte la calificacion'
+5
+1
+5
+calif
+6
+2
+5
+total
+11
+total+calif
+4
+cont
+6
+cont+1
+4
+1
+26
+'Existe otra calificacion'
+5
+1
+4
+resp
+11
+6
+1
+4
+prom
+10
+total/cont
+4
+1
+23
+'El promedio es: ',prom
+1
